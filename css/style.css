@@ -286,7 +286,9 @@ footer a:hover {
 	padding-right:11px
 }
 #footer_menu {
-	padding-top:4px
+	padding-top:4px;
+	background-color: red;
+	border-radius: 25px;
 }
 #footer_menu li {
 	padding-right:26px;
