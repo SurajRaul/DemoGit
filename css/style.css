@@ -506,3 +506,7 @@ a.jqTransformSelectOpen {
 	margin-left:4px;
 	padding:0 19px
 }
+ h6,h5,h4,h3,h2{
+	background-color: blue;
+	border: 2px solid red;
+ }
